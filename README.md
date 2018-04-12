@@ -1,3 +1,13 @@
-# My Awesome Book
+# Node.js
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+开始学习时间：2018-4-12
+
+学习原因：
+
+1. 找实习的原因，需要了解网络开发流程，关于json数据的传送，websocket原理
+2. 课程需要，尤其是数据库，需要前后端加mysql结合
+
+加油！
+
+
+
